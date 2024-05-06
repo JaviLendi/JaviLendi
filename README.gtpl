@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/ChrisTitusTech/ChrisTitusTech/main/ctt-600px-github.png" /></p>
+<p align="center"><img src="https://github.com/JaviLendi/JaviLendi/blob/8b092c87149dd909d30b5835611e526b4a3b976d/logo.png" /></p>
 
 ### GitHub Stats
 

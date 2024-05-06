@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/ChrisTitusTech/ChrisTitusTech/main/ctt-600px-github.png" /></p>
+<p align="center"><img src="https://github.com/JaviLendi/JaviLendi/blob/8b092c87149dd909d30b5835611e526b4a3b976d/logo.png" /></p>
 
 <a href="https://www.twitch.tv/christitustech" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/christitustech?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
