@@ -18,7 +18,7 @@
 
 ### ⭐ Recent Stars
 
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Web OS! Free, Open-Source, and Self-Hostable.
 - [dalyIsaac/Whim](https://github.com/dalyIsaac/Whim) - Pluggable dynamic window manager for Windows🏗️🪟
 - [peterdsharpe/AeroSandbox](https://github.com/peterdsharpe/AeroSandbox) - Aircraft design optimization made fast through modern automatic differentiation. Composable analysis tools for aerodynamics, propulsion, structures, trajectory design, and much more.
 - [poliastro/poliastro](https://github.com/poliastro/poliastro) - poliastro - :rocket: Astrodynamics in Python
