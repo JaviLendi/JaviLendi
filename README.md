@@ -17,6 +17,7 @@
 - [JaviLendi/javilendi.github.io](https://github.com/JaviLendi/javilendi.github.io) - Pagina web realizada en el Curso Ironhack: UAX Coding dor the industry
 ### 🔨 My recent Pull Requests
 
+- [MQTT updates](https://github.com/UAXSat/UAXSat/pull/16) on [UAXSat/UAXSat](https://github.com/UAXSat/UAXSat)
 - [Translated code from spanish to english](https://github.com/JaviLendi/VLMPy/pull/5) on [JaviLendi/VLMPy](https://github.com/JaviLendi/VLMPy)
 - [Update README.md](https://github.com/JaviLendi/VLMPy/pull/4) on [JaviLendi/VLMPy](https://github.com/JaviLendi/VLMPy)
 - [Update README.md](https://github.com/JaviLendi/VLMPy/pull/3) on [JaviLendi/VLMPy](https://github.com/JaviLendi/VLMPy)
