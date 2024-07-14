@@ -17,10 +17,11 @@
 - [JaviLendi/javilendi.github.io](https://github.com/JaviLendi/javilendi.github.io) - Pagina web realizada en el Curso Ironhack: UAX Coding dor the industry
 ### 🔨 My recent Pull Requests
 
+- [MQTT and Grafana improvements](https://github.com/UAXSat/UAXSat/pull/19) on [UAXSat/UAXSat](https://github.com/UAXSat/UAXSat)
+- [MQTT and integration of sensors readings in grafana](https://github.com/UAXSat/UAXSat/pull/18) on [UAXSat/UAXSat](https://github.com/UAXSat/UAXSat)
 - [MQTT updates](https://github.com/UAXSat/UAXSat/pull/16) on [UAXSat/UAXSat](https://github.com/UAXSat/UAXSat)
 - [Translated code from spanish to english](https://github.com/JaviLendi/VLMPy/pull/5) on [JaviLendi/VLMPy](https://github.com/JaviLendi/VLMPy)
 - [Update README.md](https://github.com/JaviLendi/VLMPy/pull/4) on [JaviLendi/VLMPy](https://github.com/JaviLendi/VLMPy)
-- [Update README.md](https://github.com/JaviLendi/VLMPy/pull/3) on [JaviLendi/VLMPy](https://github.com/JaviLendi/VLMPy)
 ### ⭐ Recent Stars
 
 - [UAXSat/UAXSat](https://github.com/UAXSat/UAXSat) - UAXSat IV is a microsatellite project developed by the students of 2nd and 3rd year pursuing Aerospace Engineering at Universidad Alfonso X el Sabio. The goal of this project is to design, build, and launch a small satellite into the stratosphere.
