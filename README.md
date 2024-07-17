@@ -17,11 +17,11 @@
 - [JaviLendi/javilendi.github.io](https://github.com/JaviLendi/javilendi.github.io) - Pagina web realizada en el Curso Ironhack: UAX Coding dor the industry
 ### 🔨 My recent Pull Requests
 
+- [Update README.md](https://github.com/UAXSat/UAXSat/pull/26) on [UAXSat/UAXSat](https://github.com/UAXSat/UAXSat)
+- [Added Hardware design files](https://github.com/UAXSat/UAXSat/pull/25) on [UAXSat/UAXSat](https://github.com/UAXSat/UAXSat)
+- [Delete .DS_Store](https://github.com/UAXSat/UAXSat/pull/24) on [UAXSat/UAXSat](https://github.com/UAXSat/UAXSat)
+- [Update README.md for UAXSat IV Project Hardware Design](https://github.com/UAXSat/UAXSat/pull/23) on [UAXSat/UAXSat](https://github.com/UAXSat/UAXSat)
 - [MQTT and Grafana development](https://github.com/UAXSat/UAXSat/pull/20) on [UAXSat/UAXSat](https://github.com/UAXSat/UAXSat)
-- [MQTT and Grafana improvements](https://github.com/UAXSat/UAXSat/pull/19) on [UAXSat/UAXSat](https://github.com/UAXSat/UAXSat)
-- [MQTT and integration of sensors readings in grafana](https://github.com/UAXSat/UAXSat/pull/18) on [UAXSat/UAXSat](https://github.com/UAXSat/UAXSat)
-- [MQTT updates](https://github.com/UAXSat/UAXSat/pull/16) on [UAXSat/UAXSat](https://github.com/UAXSat/UAXSat)
-- [Translated code from spanish to english](https://github.com/JaviLendi/VLMPy/pull/5) on [JaviLendi/VLMPy](https://github.com/JaviLendi/VLMPy)
 ### ⭐ Recent Stars
 
 - [AeroPython/Curso_AeroPython](https://github.com/AeroPython/Curso_AeroPython) - Curso de iniciación a Python orientado a la ingeniería
