@@ -17,11 +17,11 @@
 - [JaviLendi/javilendi.github.io](https://github.com/JaviLendi/javilendi.github.io) - Pagina web realizada en el Curso Ironhack: UAX Coding dor the industry
 ### 🔨 My recent Pull Requests
 
+- [Reorganizing](https://github.com/UAXSat/UAXSat/pull/32) on [UAXSat/UAXSat](https://github.com/UAXSat/UAXSat)
 - [LORA Succes](https://github.com/UAXSat/UAXSat/pull/31) on [UAXSat/UAXSat](https://github.com/UAXSat/UAXSat)
 - [ PostgreSQL Integration](https://github.com/UAXSat/UAXSat/pull/29) on [UAXSat/UAXSat](https://github.com/UAXSat/UAXSat)
 - [GPS Update for Data Acquisition in MQTT](https://github.com/UAXSat/UAXSat/pull/28) on [UAXSat/UAXSat](https://github.com/UAXSat/UAXSat)
 - [Update README.md](https://github.com/UAXSat/UAXSat/pull/27) on [UAXSat/UAXSat](https://github.com/UAXSat/UAXSat)
-- [Update README.md](https://github.com/UAXSat/UAXSat/pull/26) on [UAXSat/UAXSat](https://github.com/UAXSat/UAXSat)
 ### ⭐ Recent Stars
 
 - [AeroPython/Curso_AeroPython](https://github.com/AeroPython/Curso_AeroPython) - Curso de iniciación a Python orientado a la ingeniería
