@@ -26,11 +26,11 @@
 - [Update README.md](https://github.com/UAXSat/UAXSat/pull/27) on [UAXSat/UAXSat](https://github.com/UAXSat/UAXSat)
 ### ⭐ Recent Stars
 
+- [CHerSun/NoSleep](https://github.com/CHerSun/NoSleep) - Lightweight Windows utility to prevent screen locking
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [aleemrehmtulla/kytelink](https://github.com/aleemrehmtulla/kytelink) - a simple linktree alternative
 - [AeroPython/Curso_AeroPython](https://github.com/AeroPython/Curso_AeroPython) - Curso de iniciación a Python orientado a la ingeniería
 - [UAXSat/UAXSat](https://github.com/UAXSat/UAXSat) - UAXSat IV is a microsatellite project developed by the students of 2nd and 3rd year pursuing Aerospace Engineering at Universidad Alfonso X el Sabio. The goal of this project is to design, build, and launch a small satellite into the stratosphere.
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 ### 📫 How to reach me:
   - Twitter   : <https://twitter.com/javi_lendi>
   - Linkedin   : <https://www.linkedin.com/in/javierlendinez/>
