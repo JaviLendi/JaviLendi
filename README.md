@@ -26,11 +26,11 @@
 - [Reorganizing](https://github.com/UAXSat/UAXSat/pull/32) on [UAXSat/UAXSat](https://github.com/UAXSat/UAXSat)
 ### ⭐ Recent Stars
 
+- [marcelo-earth/marcelo](https://github.com/marcelo-earth/marcelo) - ⚡️❤️ New Marcelo Arias website for 2024
 - [byuflowlab/FLOWVLM](https://github.com/byuflowlab/FLOWVLM) - Vortex lattice method for inviscid lifting-surface aerodynamics
 - [byuflowlab/FLOWUnsteady](https://github.com/byuflowlab/FLOWUnsteady) - An interactional aerodynamics and acoustics solver for multirotor aircraft and wind energy
 - [carlodev/AirfoilGmsh.jl](https://github.com/carlodev/AirfoilGmsh.jl) - 
 - [duplicati/duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud!
-- [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 ### 📫 How to reach me:
   - Twitter   : <https://twitter.com/javi_lendi>
   - Linkedin   : <https://www.linkedin.com/in/javierlendinez/>
