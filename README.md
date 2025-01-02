@@ -10,20 +10,16 @@
 
 - [UAXSat/UAXSat](https://github.com/UAXSat/UAXSat) - UAXSat IV is a microsatellite project developed by the students of 2nd and 3rd year pursuing Aerospace Engineering at Universidad Alfonso X el Sabio. The goal of this project is to design, build, and launch a small satellite into the stratosphere.
 - [JaviLendi/Arduino-IBus-Channel-Reader](https://github.com/JaviLendi/Arduino-IBus-Channel-Reader) - This repository contains an Arduino sketch for reading pulse widths from multiple channels and transmitting the data using the IBUS protocol. 
-- [JaviLendi/VLMPy](https://github.com/JaviLendi/VLMPy) - Vortex Lattice Method in Python and Jupyter Notebook
 - [JaviLendi/javilendi.github.io](https://github.com/JaviLendi/javilendi.github.io) - Pagina web realizada en el Curso Ironhack: UAX Coding dor the industry
 ### 🌱 My latest projects
 
 - [JaviLendi/Arduino-IBus-Channel-Reader](https://github.com/JaviLendi/Arduino-IBus-Channel-Reader) - This repository contains an Arduino sketch for reading pulse widths from multiple channels and transmitting the data using the IBUS protocol. 
-- [JaviLendi/VLMPy](https://github.com/JaviLendi/VLMPy) - Vortex Lattice Method in Python and Jupyter Notebook
 - [JaviLendi/javilendi.github.io](https://github.com/JaviLendi/javilendi.github.io) - Pagina web realizada en el Curso Ironhack: UAX Coding dor the industry
 ### 🔨 My recent Pull Requests
 
 - [Updated LICENSES](https://github.com/UAXSat/UAXSat/pull/41) on [UAXSat/UAXSat](https://github.com/UAXSat/UAXSat)
 - [13/10/2024](https://github.com/UAXSat/UAXSat/pull/40) on [UAXSat/UAXSat](https://github.com/UAXSat/UAXSat)
 - [Updated LICENSE](https://github.com/UAXSat/UAXSat/pull/39) on [UAXSat/UAXSat](https://github.com/UAXSat/UAXSat)
-- [Updated README.md](https://github.com/UAXSat/UAXSat/pull/36) on [UAXSat/UAXSat](https://github.com/UAXSat/UAXSat)
-- [Reorganizing](https://github.com/UAXSat/UAXSat/pull/32) on [UAXSat/UAXSat](https://github.com/UAXSat/UAXSat)
 ### ⭐ Recent Stars
 
 - [ss1870/Foilpy](https://github.com/ss1870/Foilpy) - Foilpy is a python toolkit that allows you to design, visualise, and analyse hydrofoil wings. Wing geometries can also be exported to .STL file for processing in CAD/3D printing.
