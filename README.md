@@ -18,7 +18,6 @@
 ### 🔨 My recent Pull Requests
 
 - [Updated LICENSES](https://github.com/UAXSat/UAXSat/pull/41) on [UAXSat/UAXSat](https://github.com/UAXSat/UAXSat)
-- [13/10/2024](https://github.com/UAXSat/UAXSat/pull/40) on [UAXSat/UAXSat](https://github.com/UAXSat/UAXSat)
 ### ⭐ Recent Stars
 
 - [ss1870/Foilpy](https://github.com/ss1870/Foilpy) - Foilpy is a python toolkit that allows you to design, visualise, and analyse hydrofoil wings. Wing geometries can also be exported to .STL file for processing in CAD/3D printing.
