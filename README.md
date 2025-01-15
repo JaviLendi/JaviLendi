@@ -17,6 +17,10 @@
 - [JaviLendi/javilendi.github.io](https://github.com/JaviLendi/javilendi.github.io) - Pagina web realizada en el Curso Ironhack: UAX Coding dor the industry
 ### 🔨 My recent Pull Requests
 
+- [update](https://github.com/JaviLendi/powershell-profile/pull/4) on [JaviLendi/powershell-profile](https://github.com/JaviLendi/powershell-profile)
+- [Disabled debug mode](https://github.com/JaviLendi/powershell-profile/pull/3) on [JaviLendi/powershell-profile](https://github.com/JaviLendi/powershell-profile)
+- [Customizing things](https://github.com/JaviLendi/powershell-profile/pull/2) on [JaviLendi/powershell-profile](https://github.com/JaviLendi/powershell-profile)
+- [Updates from christitustech](https://github.com/JaviLendi/powershell-profile/pull/1) on [JaviLendi/powershell-profile](https://github.com/JaviLendi/powershell-profile)
 ### ⭐ Recent Stars
 
 - [ss1870/Foilpy](https://github.com/ss1870/Foilpy) - Foilpy is a python toolkit that allows you to design, visualise, and analyse hydrofoil wings. Wing geometries can also be exported to .STL file for processing in CAD/3D printing.
