@@ -21,7 +21,6 @@
 - [posh theme](https://github.com/JaviLendi/powershell-profile/pull/5) on [JaviLendi/powershell-profile](https://github.com/JaviLendi/powershell-profile)
 - [Posh theme](https://github.com/ChrisTitusTech/powershell-profile/pull/126) on [ChrisTitusTech/powershell-profile](https://github.com/ChrisTitusTech/powershell-profile)
 - [update](https://github.com/JaviLendi/powershell-profile/pull/4) on [JaviLendi/powershell-profile](https://github.com/JaviLendi/powershell-profile)
-- [Disabled debug mode](https://github.com/JaviLendi/powershell-profile/pull/3) on [JaviLendi/powershell-profile](https://github.com/JaviLendi/powershell-profile)
 ### ⭐ Recent Stars
 
 - [ss1870/Foilpy](https://github.com/ss1870/Foilpy) - Foilpy is a python toolkit that allows you to design, visualise, and analyse hydrofoil wings. Wing geometries can also be exported to .STL file for processing in CAD/3D printing.
