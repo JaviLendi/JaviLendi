@@ -23,11 +23,11 @@
 - [update](https://github.com/JaviLendi/powershell-profile/pull/4) on [JaviLendi/powershell-profile](https://github.com/JaviLendi/powershell-profile)
 ### ⭐ Recent Stars
 
+- [ggruszczynski/sailingVLM](https://github.com/ggruszczynski/sailingVLM) - python implementation of a 3D Vortex Lattice Method
+- [partmor/ezaero](https://github.com/partmor/ezaero) - ezaero - Easy aerodynamics in Python :airplane:
 - [ss1870/Foilpy](https://github.com/ss1870/Foilpy) - Foilpy is a python toolkit that allows you to design, visualise, and analyse hydrofoil wings. Wing geometries can also be exported to .STL file for processing in CAD/3D printing.
 - [marcelo-earth/marcelo](https://github.com/marcelo-earth/marcelo) - ⚡️❤️ New Marcelo Arias website for 2024
 - [byuflowlab/FLOWVLM](https://github.com/byuflowlab/FLOWVLM) - Vortex lattice method for inviscid lifting-surface aerodynamics
-- [byuflowlab/FLOWUnsteady](https://github.com/byuflowlab/FLOWUnsteady) - An interactional aerodynamics and acoustics solver for multirotor aircraft and wind energy
-- [carlodev/AirfoilGmsh.jl](https://github.com/carlodev/AirfoilGmsh.jl) - 
 ### 📫 How to reach me:
   - Twitter   : <https://twitter.com/javi_lendi>
   - Linkedin   : <https://www.linkedin.com/in/javierlendinez/>
