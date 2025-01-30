@@ -23,11 +23,11 @@
 - [update](https://github.com/JaviLendi/powershell-profile/pull/4) on [JaviLendi/powershell-profile](https://github.com/JaviLendi/powershell-profile)
 ### ⭐ Recent Stars
 
+- [Carlosterre/VLM-ETSIAE](https://github.com/Carlosterre/VLM-ETSIAE) - Vortex Lattice Method verified with Tornado
+- [josepascualanton/Vortex-Lattice_Method](https://github.com/josepascualanton/Vortex-Lattice_Method) - NACA Airfoil Generator and simetrical wing generator with Vortex-Lattice-Method implemented to solve aerodynamic characteristics
+- [natzaCodes/AerodynamicsVLM](https://github.com/natzaCodes/AerodynamicsVLM) - Vortex Lattice Method implementation
+- [mcrespoamoros/VLM](https://github.com/mcrespoamoros/VLM) - Vortex Lattice Method for steady and unsteady aerodynamics
 - [ggruszczynski/sailingVLM](https://github.com/ggruszczynski/sailingVLM) - python implementation of a 3D Vortex Lattice Method
-- [partmor/ezaero](https://github.com/partmor/ezaero) - ezaero - Easy aerodynamics in Python :airplane:
-- [ss1870/Foilpy](https://github.com/ss1870/Foilpy) - Foilpy is a python toolkit that allows you to design, visualise, and analyse hydrofoil wings. Wing geometries can also be exported to .STL file for processing in CAD/3D printing.
-- [marcelo-earth/marcelo](https://github.com/marcelo-earth/marcelo) - ⚡️❤️ New Marcelo Arias website for 2024
-- [byuflowlab/FLOWVLM](https://github.com/byuflowlab/FLOWVLM) - Vortex lattice method for inviscid lifting-surface aerodynamics
 ### 📫 How to reach me:
   - Twitter   : <https://twitter.com/javi_lendi>
   - Linkedin   : <https://www.linkedin.com/in/javierlendinez/>
