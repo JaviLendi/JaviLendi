@@ -17,7 +17,6 @@
 ### 🔨 My recent Pull Requests
 
 - [update posh theme](https://github.com/JaviLendi/powershell-profile/pull/6) on [JaviLendi/powershell-profile](https://github.com/JaviLendi/powershell-profile)
-- [posh theme](https://github.com/JaviLendi/powershell-profile/pull/5) on [JaviLendi/powershell-profile](https://github.com/JaviLendi/powershell-profile)
 ### ⭐ Recent Stars
 
 - [Carlosterre/VLM-ETSIAE](https://github.com/Carlosterre/VLM-ETSIAE) - Vortex Lattice Method verified with Tornado
