@@ -16,7 +16,6 @@
 - [JaviLendi/javilendi.github.io](https://github.com/JaviLendi/javilendi.github.io) - Pagina web realizada en el Curso Ironhack: UAX Coding dor the industry
 ### 🔨 My recent Pull Requests
 
-- [update posh theme](https://github.com/JaviLendi/powershell-profile/pull/6) on [JaviLendi/powershell-profile](https://github.com/JaviLendi/powershell-profile)
 ### ⭐ Recent Stars
 
 - [Carlosterre/VLM-ETSIAE](https://github.com/Carlosterre/VLM-ETSIAE) - Vortex Lattice Method verified with Tornado
