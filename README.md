@@ -16,13 +16,14 @@
 - [JaviLendi/javilendi.github.io](https://github.com/JaviLendi/javilendi.github.io) - Pagina web realizada en el Curso Ironhack: UAX Coding dor the industry
 ### 🔨 My recent Pull Requests
 
+- [Update README.md](https://github.com/UAXSat/UAXSat/pull/57) on [UAXSat/UAXSat](https://github.com/UAXSat/UAXSat)
 ### ⭐ Recent Stars
 
+- [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
+- [python/cpython](https://github.com/python/cpython) - The Python programming language
+- [ageron/handson-ml3](https://github.com/ageron/handson-ml3) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
 - [Carlosterre/VLM-ETSIAE](https://github.com/Carlosterre/VLM-ETSIAE) - Vortex Lattice Method verified with Tornado
 - [josepascualanton/Vortex-Lattice_Method](https://github.com/josepascualanton/Vortex-Lattice_Method) - NACA Airfoil Generator and simetrical wing generator with Vortex-Lattice-Method implemented to solve aerodynamic characteristics
-- [mcrespoamoros/VLM](https://github.com/mcrespoamoros/VLM) - Vortex Lattice Method for steady and unsteady aerodynamics
-- [ggruszczynski/sailingVLM](https://github.com/ggruszczynski/sailingVLM) - python implementation of a 3D Vortex Lattice Method
-- [partmor/ezaero](https://github.com/partmor/ezaero) - ezaero - Easy aerodynamics in Python :airplane:
 ### 📫 How to reach me:
   - Twitter   : <https://twitter.com/javi_lendi>
   - Linkedin   : <https://www.linkedin.com/in/javierlendinez/>
