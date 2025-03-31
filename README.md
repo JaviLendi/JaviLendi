@@ -2,7 +2,7 @@
 
 ### GitHub Stats
 
-[![CodeTime Badge](https://img.shields.io/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D25485%26project%3D%26in=0)](https://codetime.dev)
+[//]: # "[![CodeTime Badge](https://img.shields.io/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D25485%26project%3D%26in=0)](https://codetime.dev)"
 
 <p align="left"><img src="https://raw.githubusercontent.com/JaviLendi/JaviLendi/main/github-metrics.svg" /></p>
 
@@ -19,11 +19,11 @@
 - [Update README.md](https://github.com/UAXSat/UAXSat/pull/57) on [UAXSat/UAXSat](https://github.com/UAXSat/UAXSat)
 ### ⭐ Recent Stars
 
+- [laestradad/visualite](https://github.com/laestradad/visualite) - Data Analysis tool using customtkinter and plotly
+- [TomSchimansky/RaspiDrone](https://github.com/TomSchimansky/RaspiDrone) - Wifi-controlled quadcopter project using RaspberryPi and Multiwii (Arduino) including live streaming and vision based autonomous capabilities through Aruco markers (OpenCV)
 - [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [ageron/handson-ml3](https://github.com/ageron/handson-ml3) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
-- [Carlosterre/VLM-ETSIAE](https://github.com/Carlosterre/VLM-ETSIAE) - Vortex Lattice Method verified with Tornado
-- [josepascualanton/Vortex-Lattice_Method](https://github.com/josepascualanton/Vortex-Lattice_Method) - NACA Airfoil Generator and simetrical wing generator with Vortex-Lattice-Method implemented to solve aerodynamic characteristics
 ### 📫 How to reach me:
   - Twitter   : <https://twitter.com/javi_lendi>
   - Linkedin   : <https://www.linkedin.com/in/javierlendinez/>
