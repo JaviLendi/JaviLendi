@@ -19,11 +19,11 @@
 - [Update README.md](https://github.com/UAXSat/UAXSat/pull/57) on [UAXSat/UAXSat](https://github.com/UAXSat/UAXSat)
 ### ⭐ Recent Stars
 
+- [OpenMDAO/Aviary](https://github.com/OpenMDAO/Aviary) - NASA&#39;s aircraft analysis, design, and optimization tool
 - [laestradad/visualite](https://github.com/laestradad/visualite) - Data Analysis tool using customtkinter and plotly
 - [TomSchimansky/RaspiDrone](https://github.com/TomSchimansky/RaspiDrone) - Wifi-controlled quadcopter project using RaspberryPi and Multiwii (Arduino) including live streaming and vision based autonomous capabilities through Aruco markers (OpenCV)
 - [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
-- [ageron/handson-ml3](https://github.com/ageron/handson-ml3) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
 ### 📫 How to reach me:
   - Twitter   : <https://twitter.com/javi_lendi>
   - Linkedin   : <https://www.linkedin.com/in/javierlendinez/>
