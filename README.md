@@ -16,7 +16,6 @@
 - [JaviLendi/javilendi.github.io](https://github.com/JaviLendi/javilendi.github.io) - Pagina web realizada en el Curso Ironhack: UAX Coding dor the industry
 ### 🔨 My recent Pull Requests
 
-- [Update README.md](https://github.com/UAXSat/UAXSat/pull/57) on [UAXSat/UAXSat](https://github.com/UAXSat/UAXSat)
 ### ⭐ Recent Stars
 
 - [OpenMDAO/Aviary](https://github.com/OpenMDAO/Aviary) - NASA&#39;s aircraft analysis, design, and optimization tool
