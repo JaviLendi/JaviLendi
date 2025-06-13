@@ -18,11 +18,11 @@
 
 ### ⭐ Recent Stars
 
+- [mdolab/OpenAeroStruct](https://github.com/mdolab/OpenAeroStruct) - OpenAeroStruct is a lightweight tool that performs aerostructural optimization using OpenMDAO.
 - [cfsengineering/CEASIOMpy](https://github.com/cfsengineering/CEASIOMpy) - CEASIOMpy is a Python conceptual aircraft design environment
 - [OpenMDAO/Aviary](https://github.com/OpenMDAO/Aviary) - NASA&#39;s aircraft analysis, design, and optimization tool
 - [laestradad/visualite](https://github.com/laestradad/visualite) - Data Analysis tool using customtkinter and plotly
 - [TomSchimansky/RaspiDrone](https://github.com/TomSchimansky/RaspiDrone) - Wifi-controlled quadcopter project using RaspberryPi and Multiwii (Arduino) including live streaming and vision based autonomous capabilities through Aruco markers (OpenCV)
-- [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
 ### 📫 How to reach me:
   - Twitter   : <https://twitter.com/javi_lendi>
   - Linkedin   : <https://www.linkedin.com/in/javierlendinez/>
