@@ -18,6 +18,7 @@
 - [JaviLendi/javilendi.github.io](https://github.com/JaviLendi/javilendi.github.io) - Pagina web realizada en el Curso Ironhack: UAX Coding dor the industry
 ### 🔨 My recent Pull Requests
 
+- [Bugfixes](https://github.com/JaviLendi/VLMPy/pull/9) on [JaviLendi/VLMPy](https://github.com/JaviLendi/VLMPy)
 - [updates](https://github.com/JaviLendi/VLMPy/pull/8) on [JaviLendi/VLMPy](https://github.com/JaviLendi/VLMPy)
 ### ⭐ Recent Stars
 
