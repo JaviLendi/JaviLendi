@@ -49,7 +49,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_ignored: >-
             html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-            gnuplot
+            gnuplot, Jupytext, Jupyter Notebook, Jupyter Notebook Script
           plugin_languages_details: percentage
           plugin_languages_limit: 6
           #plugin_gists: yes
