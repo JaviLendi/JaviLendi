@@ -16,7 +16,7 @@ jobs:
       cancel-in-progress: true
     steps:
       - name: Cache dependencies
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         with:
           path: ~/.cache
           key: ${{ runner.os }}-cache-${{ hashFiles('**/lockfiles') }}
@@ -39,21 +39,13 @@ jobs:
           user: JaviLendi
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Europe/Spain
-          plugin_gists: no
-          plugin_achievements: yes
-          plugin_achievements_display: compact
+          config_timezone: Europe/Madrid
+          plugin_gists: yes
           plugin_habits: yes
+          plugin_habits_charts_type: classic
           plugin_habits_days: 14
           plugin_habits_facts: yes
-          plugin_habits_charts: no
           plugin_habits_from: 200
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-          plugin_lines: yes
-          plugin_lines_history_limit: 1
-          plugin_lines_repositories_limit: 4
-          plugin_lines_sections: base
-          plugin_languages: yes
-          plugin_languages_sections: most-used
+          plugin_isocalendar_duration: full-year
           plugin_traffic: yes
