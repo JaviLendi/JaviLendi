@@ -10,7 +10,6 @@
 
 - [JaviLendi/VLMPy](https://github.com/JaviLendi/VLMPy) - VLMPy: Vortex Lattice Method App developed in Python
 - [UAXSat/UAXSat](https://github.com/UAXSat/UAXSat) - UAXSat IV is a microsatellite project developed by the students of 2nd and 3rd year pursuing Aerospace Engineering at Universidad Alfonso X el Sabio. The goal of this project is to design, build, and launch a small satellite into the stratosphere.
-- [JaviLendi/Arduino-IBus-Channel-Reader](https://github.com/JaviLendi/Arduino-IBus-Channel-Reader) - This repository contains an Arduino sketch for reading pulse widths from multiple channels and transmitting the data using the IBUS protocol. 
 ### 🌱 My latest projects
 
 - [JaviLendi/Arduino-IBus-Channel-Reader](https://github.com/JaviLendi/Arduino-IBus-Channel-Reader) - This repository contains an Arduino sketch for reading pulse widths from multiple channels and transmitting the data using the IBUS protocol. 
