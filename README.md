@@ -17,18 +17,18 @@
 - [JaviLendi/javilendi.github.io](https://github.com/JaviLendi/javilendi.github.io) - Pagina web realizada en el Curso Ironhack: UAX Coding dor the industry
 ### 🔨 My recent Pull Requests
 
+- [Add auto-translate widget and update landing page to English](https://github.com/JaviLendi/VLMPy/pull/15) on [JaviLendi/VLMPy](https://github.com/JaviLendi/VLMPy)
 - [Interface redesign and refactoring](https://github.com/JaviLendi/VLMPy/pull/14) on [JaviLendi/VLMPy](https://github.com/JaviLendi/VLMPy)
 - [Update README.md](https://github.com/JaviLendi/VLMPy/pull/13) on [JaviLendi/VLMPy](https://github.com/JaviLendi/VLMPy)
 - [Update README](https://github.com/JaviLendi/VLMPy/pull/12) on [JaviLendi/VLMPy](https://github.com/JaviLendi/VLMPy)
 - [Bugfixes and improvements](https://github.com/JaviLendi/VLMPy/pull/11) on [JaviLendi/VLMPy](https://github.com/JaviLendi/VLMPy)
-- [Bugfixes and improvements](https://github.com/JaviLendi/VLMPy/pull/10) on [JaviLendi/VLMPy](https://github.com/JaviLendi/VLMPy)
 ### ⭐ Recent Stars
 
+- [danielenriquez59/python-datcom](https://github.com/danielenriquez59/python-datcom) - A translation of the original datcom program into python
 - [samzong/ai-icon-generator](https://github.com/samzong/ai-icon-generator) - An opensource icon generation tool based on OpenAI gpt-image-1.
 - [JaviLendi/VLMPy](https://github.com/JaviLendi/VLMPy) - VLMPy: Vortex Lattice Method App developed in Python
 - [mdolab/OpenAeroStruct](https://github.com/mdolab/OpenAeroStruct) - OpenAeroStruct is a lightweight tool that performs aerostructural optimization using OpenMDAO.
 - [cfsengineering/CEASIOMpy](https://github.com/cfsengineering/CEASIOMpy) - CEASIOMpy is a Python conceptual aircraft design environment
-- [OpenMDAO/Aviary](https://github.com/OpenMDAO/Aviary) - NASA&#39;s aircraft analysis, design, and optimization tool
 ### 📫 How to reach me:
   - Twitter   : <https://twitter.com/javi_lendi>
   - Linkedin   : <https://www.linkedin.com/in/javierlendinez/>
