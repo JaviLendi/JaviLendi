@@ -24,11 +24,11 @@
 - [Interface redesign and refactoring](https://github.com/JaviLendi/VLMPy/pull/14) on [JaviLendi/VLMPy](https://github.com/JaviLendi/VLMPy)
 ### ⭐ Recent Stars
 
+- [matuscvengros/cst-airfoil-visualiser](https://github.com/matuscvengros/cst-airfoil-visualiser) - Quick app for intuitive understanding of the CST-defined airfoils.
 - [MYSTRANsolver/MYSTRAN](https://github.com/MYSTRANsolver/MYSTRAN) - MYSTRAN is a general purpose finite element analysis solver 
 - [danielenriquez59/python-datcom](https://github.com/danielenriquez59/python-datcom) - A translation of the original datcom program into python
 - [samzong/ai-icon-generator](https://github.com/samzong/ai-icon-generator) - An opensource icon generation tool based on OpenAI gpt-image-1.
 - [JaviLendi/VLMPy](https://github.com/JaviLendi/VLMPy) - VLMPy: Vortex Lattice Method App developed in Python
-- [mdolab/OpenAeroStruct](https://github.com/mdolab/OpenAeroStruct) - OpenAeroStruct is a lightweight tool that performs aerostructural optimization using OpenMDAO.
 ### 📫 How to reach me:
   - Twitter   : <https://twitter.com/javi_lendi>
   - Linkedin   : <https://www.linkedin.com/in/javierlendinez/>
