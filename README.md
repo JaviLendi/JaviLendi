@@ -24,11 +24,11 @@
 - [Interface redesign and refactoring](https://github.com/JaviLendi/VLMPy/pull/14) on [JaviLendi/VLMPy](https://github.com/JaviLendi/VLMPy)
 ### ⭐ Recent Stars
 
+- [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist &amp; lightweight startpage inspired by iOS
 - [sduess/Enhanced_UVLM_nonlinear_aeroelastic](https://github.com/sduess/Enhanced_UVLM_nonlinear_aeroelastic) - 
 - [OpenVSP/OpenVSP](https://github.com/OpenVSP/OpenVSP) - A parametric aircraft geometry tool
 - [hargente3332/LEEMON-Rocket-Simulator](https://github.com/hargente3332/LEEMON-Rocket-Simulator) - 
 - [matuscvengros/cst-airfoil-visualiser](https://github.com/matuscvengros/cst-airfoil-visualiser) - Quick app for intuitive understanding of the CST-defined airfoils.
-- [MYSTRANsolver/MYSTRAN](https://github.com/MYSTRANsolver/MYSTRAN) - MYSTRAN is a general purpose finite element analysis solver 
 ### 📫 How to reach me:
   - Twitter   : <https://twitter.com/javi_lendi>
   - Linkedin   : <https://www.linkedin.com/in/javierlendinez/>
