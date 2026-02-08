@@ -24,11 +24,11 @@
 - [Interface redesign and refactoring](https://github.com/JaviLendi/VLMPy/pull/14) on [JaviLendi/VLMPy](https://github.com/JaviLendi/VLMPy)
 ### ⭐ Recent Stars
 
+- [byuflowlab/FLOWPanel.jl](https://github.com/byuflowlab/FLOWPanel.jl) - Three-dimensional panel method for low-speed aerodynamics
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist &amp; lightweight startpage inspired by iOS
 - [sduess/Enhanced_UVLM_nonlinear_aeroelastic](https://github.com/sduess/Enhanced_UVLM_nonlinear_aeroelastic) - 
 - [OpenVSP/OpenVSP](https://github.com/OpenVSP/OpenVSP) - A parametric aircraft geometry tool
-- [hargente3332/LEEMON-Rocket-Simulator](https://github.com/hargente3332/LEEMON-Rocket-Simulator) - 
 ### 📫 How to reach me:
   - Twitter   : <https://twitter.com/javi_lendi>
   - Linkedin   : <https://www.linkedin.com/in/javierlendinez/>
