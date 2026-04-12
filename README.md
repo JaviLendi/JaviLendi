@@ -23,11 +23,11 @@
 - [Interface redesign and refactoring](https://github.com/JaviLendi/VLMPy/pull/14) on [JaviLendi/VLMPy](https://github.com/JaviLendi/VLMPy)
 ### ⭐ Recent Stars
 
+- [lightmode-laboratories/spacesuit](https://github.com/lightmode-laboratories/spacesuit) - Spacesuit — A futuristic canvas for your personal development
 - [paumrch/larenta](https://github.com/paumrch/larenta) - Tu guía completa del IRPF 2025 — asistente y explorador de deducciones fiscales
 - [cayetanomarmur/NFoil](https://github.com/cayetanomarmur/NFoil) - NFoil: a python JIT-accelerated subsonic airfoil solver based on mfoil/XFOIL
 - [byuflowlab/FLOWPanel.jl](https://github.com/byuflowlab/FLOWPanel.jl) - Three-dimensional panel method for low-speed aerodynamics
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
-- [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist &amp; lightweight startpage inspired by iOS
 ### 📫 How to reach me:
   - Twitter   : <https://twitter.com/javi_lendi>
   - Linkedin   : <https://www.linkedin.com/in/javierlendinez/>
