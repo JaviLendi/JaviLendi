@@ -16,11 +16,11 @@
 - [JaviLendi/javilendi.github.io](https://github.com/JaviLendi/javilendi.github.io) - Pagina web realizada en el Curso Ironhack: UAX Coding dor the industry
 ### 🔨 My recent Pull Requests
 
+- [Fix CodeQL build target order](https://github.com/JaviLendi/PrettySumatraPDF/pull/5) on [JaviLendi/PrettySumatraPDF](https://github.com/JaviLendi/PrettySumatraPDF)
+- [Use detectVisualStudio and improve CI build logs](https://github.com/JaviLendi/PrettySumatraPDF/pull/4) on [JaviLendi/PrettySumatraPDF](https://github.com/JaviLendi/PrettySumatraPDF)
+- [Release/1.0.0](https://github.com/JaviLendi/PrettySumatraPDF/pull/3) on [JaviLendi/PrettySumatraPDF](https://github.com/JaviLendi/PrettySumatraPDF)
 - [Prettysumatra base](https://github.com/JaviLendi/PrettySumatraPDF/pull/2) on [JaviLendi/PrettySumatraPDF](https://github.com/JaviLendi/PrettySumatraPDF)
 - [Prettysumatra base](https://github.com/sumatrapdfreader/sumatrapdf/pull/5614) on [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf)
-- [Prettysumatra/patches](https://github.com/JaviLendi/PrettySumatraPDF/pull/1) on [JaviLendi/PrettySumatraPDF](https://github.com/JaviLendi/PrettySumatraPDF)
-- [UI and Save Management improvements](https://github.com/JaviLendi/VLMPy/pull/18) on [JaviLendi/VLMPy](https://github.com/JaviLendi/VLMPy)
-- [UI and Save Management improvements](https://github.com/JaviLendi/VLMPy/pull/17) on [JaviLendi/VLMPy](https://github.com/JaviLendi/VLMPy)
 ### ⭐ Recent Stars
 
 - [lightmode-laboratories/spacesuit](https://github.com/lightmode-laboratories/spacesuit) - Spacesuit — A futuristic canvas for your personal development
