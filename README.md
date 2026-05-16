@@ -16,11 +16,11 @@
 - [JaviLendi/javilendi.github.io](https://github.com/JaviLendi/javilendi.github.io) - Pagina web realizada en el Curso Ironhack: UAX Coding dor the industry
 ### 🔨 My recent Pull Requests
 
+- [Revamp README with modern layout and docs](https://github.com/JaviLendi/PrettySumatraPDF/pull/9) on [JaviLendi/PrettySumatraPDF](https://github.com/JaviLendi/PrettySumatraPDF)
 - [Fixes](https://github.com/JaviLendi/PrettySumatraPDF/pull/8) on [JaviLendi/PrettySumatraPDF](https://github.com/JaviLendi/PrettySumatraPDF)
 - [Security fixes](https://github.com/JaviLendi/PrettySumatraPDF/pull/7) on [JaviLendi/PrettySumatraPDF](https://github.com/JaviLendi/PrettySumatraPDF)
 - [Potential fix for code scanning alert no. 243: Setting a DACL to NULL in a SECURITY_DESCRIPTOR](https://github.com/JaviLendi/PrettySumatraPDF/pull/6) on [JaviLendi/PrettySumatraPDF](https://github.com/JaviLendi/PrettySumatraPDF)
 - [Fix CodeQL build target order](https://github.com/JaviLendi/PrettySumatraPDF/pull/5) on [JaviLendi/PrettySumatraPDF](https://github.com/JaviLendi/PrettySumatraPDF)
-- [Use detectVisualStudio and improve CI build logs](https://github.com/JaviLendi/PrettySumatraPDF/pull/4) on [JaviLendi/PrettySumatraPDF](https://github.com/JaviLendi/PrettySumatraPDF)
 ### ⭐ Recent Stars
 
 - [lightmode-laboratories/spacesuit](https://github.com/lightmode-laboratories/spacesuit) - Spacesuit — A futuristic canvas for your personal development
