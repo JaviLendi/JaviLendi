@@ -16,18 +16,18 @@
 - [JaviLendi/javilendi.github.io](https://github.com/JaviLendi/javilendi.github.io) - Pagina web realizada en el Curso Ironhack: UAX Coding dor the industry
 ### 🔨 My recent Pull Requests
 
+- [New package: PrettySumatraPDF.PrettySumatraPDF version 1.0.0](https://github.com/microsoft/winget-pkgs/pull/378796) on [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- [New package: PrettySumatraPDF.PrettySumatraPDF version 1.0.0](https://github.com/microsoft/winget-pkgs/pull/378792) on [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [Fix crashes during document loading and improve error handling](https://github.com/JaviLendi/PrettySumatraPDF/pull/12) on [JaviLendi/PrettySumatraPDF](https://github.com/JaviLendi/PrettySumatraPDF)
 - [Revamp toolbar UI and enhance annotation workflows](https://github.com/JaviLendi/PrettySumatraPDF/pull/11) on [JaviLendi/PrettySumatraPDF](https://github.com/JaviLendi/PrettySumatraPDF)
 - [Fix crash during document load and improve tab management](https://github.com/JaviLendi/PrettySumatraPDF/pull/10) on [JaviLendi/PrettySumatraPDF](https://github.com/JaviLendi/PrettySumatraPDF)
-- [Revamp README with modern layout and docs](https://github.com/JaviLendi/PrettySumatraPDF/pull/9) on [JaviLendi/PrettySumatraPDF](https://github.com/JaviLendi/PrettySumatraPDF)
-- [Fixes](https://github.com/JaviLendi/PrettySumatraPDF/pull/8) on [JaviLendi/PrettySumatraPDF](https://github.com/JaviLendi/PrettySumatraPDF)
 ### ⭐ Recent Stars
 
+- [JaviLendi/PrettySumatraPDF](https://github.com/JaviLendi/PrettySumatraPDF) - A pretty version of SumatraPDF reader
 - [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
 - [lightmode-laboratories/spacesuit](https://github.com/lightmode-laboratories/spacesuit) - Spacesuit — A futuristic canvas for your personal development
 - [paumrch/larenta](https://github.com/paumrch/larenta) - Tu guía completa del IRPF 2025 — asistente y explorador de deducciones fiscales
 - [cayetanomarmur/NFoil](https://github.com/cayetanomarmur/NFoil) - NFoil: a python JIT-accelerated subsonic airfoil solver based on mfoil/XFOIL
-- [byuflowlab/FLOWPanel.jl](https://github.com/byuflowlab/FLOWPanel.jl) - Three-dimensional panel method for low-speed aerodynamics
 ### 📫 How to reach me:
   - Twitter   : <https://twitter.com/javi_lendi>
   - Linkedin   : <https://www.linkedin.com/in/javierlendinez/>
