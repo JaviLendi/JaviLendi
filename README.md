@@ -16,11 +16,11 @@
 - [JaviLendi/javilendi.github.io](https://github.com/JaviLendi/javilendi.github.io) - Pagina web realizada en el Curso Ironhack: UAX Coding dor the industry
 ### 🔨 My recent Pull Requests
 
+- [Merge Fixes into master](https://github.com/JaviLendi/PrettySumatraPDF/pull/15) on [JaviLendi/PrettySumatraPDF](https://github.com/JaviLendi/PrettySumatraPDF)
 - [Revamp toolbar UI, improve UTF-16 handling, and update installer](https://github.com/JaviLendi/PrettySumatraPDF/pull/14) on [JaviLendi/PrettySumatraPDF](https://github.com/JaviLendi/PrettySumatraPDF)
 - [Enhance toolbar search focus and improve UI consistency](https://github.com/JaviLendi/PrettySumatraPDF/pull/13) on [JaviLendi/PrettySumatraPDF](https://github.com/JaviLendi/PrettySumatraPDF)
 - [New package: PrettySumatraPDF.PrettySumatraPDF version 1.0.0](https://github.com/microsoft/winget-pkgs/pull/378796) on [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [New package: PrettySumatraPDF.PrettySumatraPDF version 1.0.0](https://github.com/microsoft/winget-pkgs/pull/378792) on [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [Fix crashes during document loading and improve error handling](https://github.com/JaviLendi/PrettySumatraPDF/pull/12) on [JaviLendi/PrettySumatraPDF](https://github.com/JaviLendi/PrettySumatraPDF)
 ### ⭐ Recent Stars
 
 - [JaviLendi/PrettySumatraPDF](https://github.com/JaviLendi/PrettySumatraPDF) - A pretty version of SumatraPDF reader
