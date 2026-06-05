@@ -23,11 +23,11 @@
 - [New package: PrettySumatraPDF.PrettySumatraPDF version 1.0.0](https://github.com/microsoft/winget-pkgs/pull/378792) on [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 ### ⭐ Recent Stars
 
+- [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
+- [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
 - [JaviLendi/PrettySumatraPDF](https://github.com/JaviLendi/PrettySumatraPDF) - A pretty version of SumatraPDF reader
 - [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
 - [lightmode-laboratories/spacesuit](https://github.com/lightmode-laboratories/spacesuit) - Spacesuit — A futuristic canvas for your personal development
-- [paumrch/larenta](https://github.com/paumrch/larenta) - Tu guía completa del IRPF 2025 — asistente y explorador de deducciones fiscales
-- [cayetanomarmur/NFoil](https://github.com/cayetanomarmur/NFoil) - NFoil: a python JIT-accelerated subsonic airfoil solver based on mfoil/XFOIL
 ### 📫 How to reach me:
   - Twitter   : <https://twitter.com/javi_lendi>
   - Linkedin   : <https://www.linkedin.com/in/javierlendinez/>
