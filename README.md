@@ -23,7 +23,7 @@
 - [New package: PrettySumatraPDF.PrettySumatraPDF version 1.0.0](https://github.com/microsoft/winget-pkgs/pull/378792) on [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 ### ⭐ Recent Stars
 
-- [OwenTWebb/windtunnel](https://github.com/OwenTWebb/windtunnel) - Desktop virtual wind tunnel: drop in an STL, get OpenFOAM CFD (drag/lift, pressure maps, flow slices, streamlines)
+- [OwenTWebb/slipstream](https://github.com/OwenTWebb/slipstream) - Desktop virtual wind tunnel: drop in an STL, get OpenFOAM CFD (drag/lift, pressure maps, flow slices, streamlines)
 - [IGL5/Sim-to-Real-Isaac-Sim](https://github.com/IGL5/Sim-to-Real-Isaac-Sim) - An end-to-end Sim-to-Real pipeline: Generate synthetic datasets with domain randomization in Isaac Sim, and train, validate, and audit YOLO computer vision models.
 - [arashtorkaman/Aerospace-Avionics-Engineering-Portfolio](https://github.com/arashtorkaman/Aerospace-Avionics-Engineering-Portfolio) - Aerospace and avionics engineering portfolio covering flight dynamics, control systems, state estimation, embedded systems, and verification-oriented development.
 - [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
