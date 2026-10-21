@@ -23,11 +23,11 @@
 - [New package: PrettySumatraPDF.PrettySumatraPDF version 1.0.0](https://github.com/microsoft/winget-pkgs/pull/378792) on [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 ### ⭐ Recent Stars
 
+- [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) - SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 - [WaterLily-jl/WaterLily.jl](https://github.com/WaterLily-jl/WaterLily.jl) - Fast and simple fluid simulator in Julia
 - [EdJb1971/AeroForge](https://github.com/EdJb1971/AeroForge) - Open-source drone physics simulator with multiple fidelities (BEMT, VPM, LBM, PINN), GPU acceleration, environmental effects, and 3D propeller design — validated against 49 UIUC datasets
 - [internxt/drive-desktop](https://github.com/internxt/drive-desktop) - 
 - [franktoffel/CFDPython-ES](https://github.com/franktoffel/CFDPython-ES) - Una serie de IPython notebooks traducidos de &#34;12 Steps to Navier-Stokes&#34; http://lorenabarba.com/  
-- [OwenTWebb/slipstream](https://github.com/OwenTWebb/slipstream) - Desktop virtual wind tunnel: drop in an STL, get OpenFOAM CFD (drag/lift, pressure maps, flow slices, streamlines)
 ### 📫 How to reach me:
   - Twitter   : <https://twitter.com/javi_lendi>
   - Linkedin   : <https://www.linkedin.com/in/javierlendinez/>
