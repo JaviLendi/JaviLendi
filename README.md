@@ -16,11 +16,11 @@
 - [JaviLendi/javilendi.github.io](https://github.com/JaviLendi/javilendi.github.io) - Pagina web realizada en el Curso Ironhack: UAX Coding dor the industry
 ### 🔨 My recent Pull Requests
 
+- [Add advanced search and polish PrettySumatraPDF v1.0.2](https://github.com/JaviLendi/PrettySumatraPDF/pull/16) on [JaviLendi/PrettySumatraPDF](https://github.com/JaviLendi/PrettySumatraPDF)
 - [Merge Fixes into master](https://github.com/JaviLendi/PrettySumatraPDF/pull/15) on [JaviLendi/PrettySumatraPDF](https://github.com/JaviLendi/PrettySumatraPDF)
 - [Revamp toolbar UI, improve UTF-16 handling, and update installer](https://github.com/JaviLendi/PrettySumatraPDF/pull/14) on [JaviLendi/PrettySumatraPDF](https://github.com/JaviLendi/PrettySumatraPDF)
 - [Enhance toolbar search focus and improve UI consistency](https://github.com/JaviLendi/PrettySumatraPDF/pull/13) on [JaviLendi/PrettySumatraPDF](https://github.com/JaviLendi/PrettySumatraPDF)
 - [New package: PrettySumatraPDF.PrettySumatraPDF version 1.0.0](https://github.com/microsoft/winget-pkgs/pull/378796) on [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [New package: PrettySumatraPDF.PrettySumatraPDF version 1.0.0](https://github.com/microsoft/winget-pkgs/pull/378792) on [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 ### ⭐ Recent Stars
 
 - [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) - SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
