@@ -23,11 +23,11 @@
 - [Enhance toolbar search focus and improve UI consistency](https://github.com/JaviLendi/PrettySumatraPDF/pull/13) on [JaviLendi/PrettySumatraPDF](https://github.com/JaviLendi/PrettySumatraPDF)
 ### ⭐ Recent Stars
 
+- [almansurdjumabai-code/autonomous-crosswind-landing](https://github.com/almansurdjumabai-code/autonomous-crosswind-landing) - 6-DoF crosswind landing simulation: classical autoland, residual PPO with runtime assurance, and a WebGL mission console
+- [jacobwilliams/vkframes](https://github.com/jacobwilliams/vkframes) - Modern Fortran spacecraft trajectory simulations with VulkanSceneGraph or something
 - [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) - SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 - [WaterLily-jl/WaterLily.jl](https://github.com/WaterLily-jl/WaterLily.jl) - Fast and simple fluid simulator in Julia
 - [EdJb1971/AeroForge](https://github.com/EdJb1971/AeroForge) - Open-source drone physics simulator with multiple fidelities (BEMT, VPM, LBM, PINN), GPU acceleration, environmental effects, and 3D propeller design — validated against 49 UIUC datasets
-- [internxt/drive-desktop](https://github.com/internxt/drive-desktop) - 
-- [franktoffel/CFDPython-ES](https://github.com/franktoffel/CFDPython-ES) - Una serie de IPython notebooks traducidos de &#34;12 Steps to Navier-Stokes&#34; http://lorenabarba.com/  
 ### 📫 How to reach me:
   - Twitter   : <https://twitter.com/javi_lendi>
   - Linkedin   : <https://www.linkedin.com/in/javierlendinez/>
