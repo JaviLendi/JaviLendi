@@ -23,11 +23,11 @@
 - [Revamp toolbar UI, improve UTF-16 handling, and update installer](https://github.com/JaviLendi/PrettySumatraPDF/pull/14) on [JaviLendi/PrettySumatraPDF](https://github.com/JaviLendi/PrettySumatraPDF)
 ### ⭐ Recent Stars
 
+- [ImperialCollegeLondon/UVLM](https://github.com/ImperialCollegeLondon/UVLM) - Unsteady Vortex Lattice Method for Aeroelasticity in C&#43;&#43;
 - [almansurdjumabai-code/autonomous-crosswind-landing](https://github.com/almansurdjumabai-code/autonomous-crosswind-landing) - 6-DoF crosswind landing simulation: classical autoland, residual PPO with runtime assurance, and a WebGL mission console
 - [jacobwilliams/vkframes](https://github.com/jacobwilliams/vkframes) - Modern Fortran spacecraft trajectory simulations with VulkanSceneGraph or something
 - [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) - SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 - [WaterLily-jl/WaterLily.jl](https://github.com/WaterLily-jl/WaterLily.jl) - Fast and simple fluid simulator in Julia
-- [EdJb1971/AeroForge](https://github.com/EdJb1971/AeroForge) - Open-source drone physics simulator with multiple fidelities (BEMT, VPM, LBM, PINN), GPU acceleration, environmental effects, and 3D propeller design — validated against 49 UIUC datasets
 ### 📫 How to reach me:
   - Twitter   : <https://twitter.com/javi_lendi>
   - Linkedin   : <https://www.linkedin.com/in/javierlendinez/>
