@@ -8,6 +8,7 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [JaviLendi/javilendi.github.io](https://github.com/JaviLendi/javilendi.github.io) - Pagina web realizada en el Curso Ironhack: UAX Coding dor the industry
 - [JaviLendi/VLMPy](https://github.com/JaviLendi/VLMPy) - VLMPy: Vortex Lattice Method App developed in Python
 ### 🌱 My latest projects
 
@@ -16,11 +17,11 @@
 - [JaviLendi/javilendi.github.io](https://github.com/JaviLendi/javilendi.github.io) - Pagina web realizada en el Curso Ironhack: UAX Coding dor the industry
 ### 🔨 My recent Pull Requests
 
+- [Several improvements](https://github.com/JaviLendi/javilendi.github.io/pull/3) on [JaviLendi/javilendi.github.io](https://github.com/JaviLendi/javilendi.github.io)
+- [Personal web](https://github.com/JaviLendi/javilendi.github.io/pull/2) on [JaviLendi/javilendi.github.io](https://github.com/JaviLendi/javilendi.github.io)
 - [Enhance STL export, caching, and interactive UI features](https://github.com/JaviLendi/VLMPy/pull/19) on [JaviLendi/VLMPy](https://github.com/JaviLendi/VLMPy)
 - [SumatraPDF merge to PrettySumatraPDF](https://github.com/JaviLendi/PrettySumatraPDF/pull/17) on [JaviLendi/PrettySumatraPDF](https://github.com/JaviLendi/PrettySumatraPDF)
 - [Add advanced search and polish PrettySumatraPDF v1.0.2](https://github.com/JaviLendi/PrettySumatraPDF/pull/16) on [JaviLendi/PrettySumatraPDF](https://github.com/JaviLendi/PrettySumatraPDF)
-- [Merge Fixes into master](https://github.com/JaviLendi/PrettySumatraPDF/pull/15) on [JaviLendi/PrettySumatraPDF](https://github.com/JaviLendi/PrettySumatraPDF)
-- [Revamp toolbar UI, improve UTF-16 handling, and update installer](https://github.com/JaviLendi/PrettySumatraPDF/pull/14) on [JaviLendi/PrettySumatraPDF](https://github.com/JaviLendi/PrettySumatraPDF)
 ### ⭐ Recent Stars
 
 - [ImperialCollegeLondon/UVLM](https://github.com/ImperialCollegeLondon/UVLM) - Unsteady Vortex Lattice Method for Aeroelasticity in C&#43;&#43;
